@@ -68,5 +68,5 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hrishi2402&theme=algolia"></p>
 <p align="center"><img src="https://stats-hrishi.vercel.app/api?username=hrishi2402&show_icons=true&theme=algolia&rank_icon=github&include_all_commits=true&hide=issues"></p>
-
+<p align="center"><img src="https://stats-hrishi.vercel.app/api/top-langs/?username=hrishi2402&hide_progress=true&theme=algolia&langs_count=10"></p>
 
