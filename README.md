@@ -49,6 +49,10 @@
   <a href="https://www.opensuse.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" width="60" height="60"/>
   </a> &nbsp;
+  <a href="https://www.opensuse.org/#Tumbleweed" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/OpenSUSE_Tumbleweed_green_logo.svg" height="60"/>
+  </a> &nbsp;
+  
   
   <a href="https://www.cpanel.net/" target="_blank"> 
     <img src="https://d1uevawj71pji9.cloudfront.net/img/product/9be0b65d-a397-42be-822d-019e6298d0d9/c8230420-5f63-44e4-994b-92fba69d5f48.png" width="60" height="60"/>
