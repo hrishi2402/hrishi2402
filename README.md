@@ -5,8 +5,12 @@
     <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="60" height="60"/> 
   </a> &nbsp;
   <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" width="60" height="60"/>
+    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="60"/>
   </a> &nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank"> 
+    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" height="60"/>
+  </a> &nbsp;
+  
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" height="60"/>
   </a> &nbsp;
