@@ -1,4 +1,6 @@
 <h2 align="center">Languages and Tools:</h3>
+
+<br>
 <p align="center">
   <br>
   <a href="https://www.python.org" target="_blank">
@@ -68,7 +70,6 @@
     <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" width="60" height="60"/>
   </a> &nbsp;
 </p>
-
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hrishi2402&label=Profile%20views&color=0e75b6&style=flat" alt="hrishi2402" /> </p>
 
