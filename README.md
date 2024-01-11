@@ -4,35 +4,64 @@
 <p align="center">
   <br>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://www.php.net" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" height="60"/> 
   </a> &nbsp;
   <a href="https://micropython.org/" target="_blank">
     <img src="https://micropython.org/static/img/Mlogo_138wh.png" height="60"/> 
   </a> &nbsp;
-
-  
   <a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="60"/>
+    <img src="https://avatars.githubusercontent.com/u/27804?s=280&v=4" height="60"/>
   </a> &nbsp;
   <a href="https://flask.palletsprojects.com/" target="_blank"> 
-    <img src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png" height="60"/>
+    <img src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png" height="60"/>
+  </a> &nbsp;
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://jinja.palletsprojects.com/" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/994551/2ba89c40-184d-45ec-8ffe-f9e155aaf702" height="60"/> 
   </a> &nbsp;
   
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" height="60"/>
-  </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" height="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height="60"/> 
   </a> &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://jquery.com/" target="_blank"> 
+    <img src="https://w7.pngwing.com/pngs/720/46/png-transparent-jquery-plain-wordmark-logo-icon-thumbnail.png" height="60"/> 
   </a> &nbsp;
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="60" height="60"/> 
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" height="60"/> 
   </a> &nbsp;
   <a href="https://www.chartjs.org" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="60"/>
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="60"/> 
   </a> &nbsp;
+  <a href="https://barba.js.org/" target="_blank">
+    <img src="https://pbs.twimg.com/profile_images/1092796120911228935/5Ql8Sscm_400x400.jpg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://swiperjs.com/" target="_blank">
+    <img src="https://swiperjs.com/images/swiper-logo.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://highlightjs.org/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/9039821?s=200&v=4" height="60"/> 
+  </a> &nbsp;
+  <a href="https://codemirror.net/" target="_blank">
+    <img src="https://codemirror.net/style/logo.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://ckeditor.com/" target="_blank">
+    <img src="https://ckeditor.com/assets/images/legacy/favicons/180x180.png" height="60"/> 
+  </a> &nbsp;
+  
+  
+
+  
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   </a> &nbsp;
