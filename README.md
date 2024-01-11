@@ -4,8 +4,13 @@
 <p align="center">
   <br>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" width="60" height="60"/> 
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="60"/> 
   </a> &nbsp;
+  <a href="https://micropython.org/" target="_blank">
+    <img src="https://micropython.org/static/img/Mlogo_138wh.png" height="60"/> 
+  </a> &nbsp;
+
+  
   <a href="https://www.djangoproject.com/" target="_blank"> 
     <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" height="60"/>
   </a> &nbsp;
