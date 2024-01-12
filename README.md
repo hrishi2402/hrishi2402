@@ -58,50 +58,88 @@
   <a href="https://ckeditor.com/" target="_blank">
     <img src="https://ckeditor.com/assets/images/legacy/favicons/180x180.png" height="60"/> 
   </a> &nbsp;
-  
-  
-
-  
+  <a href="https://datatables.net/" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4SgFxZiu2QbFvb9xC2a1adaBW4Xteick3Gy7PW3G1A&s" height="60"/> 
+  </a> &nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="60"/> 
   </a> &nbsp;
   <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="60"/> 
   </a> &nbsp;
   <a href="https://mariadb.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="60"/> 
   </a> &nbsp;
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="60"/> 
   </a> &nbsp;
   <a href="https://www.sqlite.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="60"/> 
   </a> &nbsp;
   <a href="https://postman.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60"/> 
   </a> &nbsp;
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" height="60"/>
-  </a> &nbsp;
-  <a href="https://www.ubuntu.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="60" height="60"/>
-  </a> &nbsp;
-  <a href="https://www.opensuse.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" width="60" height="60"/>
-  </a> &nbsp;
-  <a href="https://www.opensuse.org/#Tumbleweed" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/OpenSUSE_Tumbleweed_green_logo.svg" height="60"/>
-  </a> &nbsp;
-  
-  
   <a href="https://www.cpanel.net/" target="_blank"> 
-    <img src="https://d1uevawj71pji9.cloudfront.net/img/product/9be0b65d-a397-42be-822d-019e6298d0d9/c8230420-5f63-44e4-994b-92fba69d5f48.png" width="60" height="60"/>
+    <img src="https://d1uevawj71pji9.cloudfront.net/img/product/9be0b65d-a397-42be-822d-019e6298d0d9/c8230420-5f63-44e4-994b-92fba69d5f48.png" height="60"/> 
   </a> &nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"  height="60"/> 
+  </a> &nbsp;
+  <a href="https://www.screamingfrog.co.uk/seo-spider/" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Tr31THNglgXVhnpFdbURefqFt8NbVhFi1kwujvQdTQ&s"  height="60"/> 
+  </a> &nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://bashlogo.com/img/symbol/jpg/monochrome_dark.jpg"  height="60"/> 
+  </a> &nbsp;
+  
+  
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://www.ubuntu.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://www.opensuse.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/suse/suse-icon.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://www.opensuse.org/#Tumbleweed" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWwU11lFMTMtRH8oyrAKsYv7TT7Nfh06xnXuJx_7ZcjOvjtEIl4EGiGP2Q25ZBILuJfE&usqp=CAU" height="60"/>
+  </a> &nbsp;
+  <a href="https://www.cloudlinux.com/" target="_blank"> 
+    <img src="https://www.mechanicweb.com/files/img/feature/mw-logo-lg-cloudlinux-01.png" height="60"/>
   </a> &nbsp;
   <a href="https://letsencrypt.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/letsencrypt/letsencrypt-icon.svg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://ahrefs.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Ahrefslogo.png" height="60"/> 
+  </a> &nbsp;
+  <a href="https://web.dev/explore/progressive-web-apps" target="_blank"> 
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/pwa-icon.png" height="60"/> 
+  </a> &nbsp;
+  <a href="https://semrush.com/" target="_blank"> 
+    <img src="https://prowly-uploads.s3.eu-west-1.amazonaws.com/uploads/60169/assets/601039/-1f98f505180d14739e58c06d7a11eaea.png" height="60"/> 
+  </a> &nbsp;
+  <a href="https://analytics.google.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/GAnalytics.svg/800px-GAnalytics.svg.png" height="60"/> 
+  </a> &nbsp;
+  <a href="https://search.google.com/search-console/welcome" target="_blank"> 
+    <img src="https://andisites.com/wp-content/uploads/2023/01/Google-Search-Console-WordPress.png" height="60"/> 
+  </a> &nbsp;
+  <a href="https://ads.google.com/home/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Ads_logo.svg/1641px-Google_Ads_logo.svg.png" height="60"/> 
+  </a> &nbsp;
+  <a href="https://adsense.google.com/start/" target="_blank"> 
+    <img src="https://i.pinimg.com/736x/01/3c/67/013c675490fbfab9d04d9359466aa678.jpg" height="60"/> 
+  </a> &nbsp;
+  <a href="https://play.google.com/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/512px-Google_Play_2022_icon.svg.png?20220726170516" height="60"/> 
+  </a> &nbsp;
+  <a href="https://play.google.com/console/about/" target="_blank"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDldXOoZe08ga-t2ULG3jK-ELkJqqO4GE5KVA5kOyhZw&s" height="60"/> 
+  </a> &nbsp;
+  <a href="https://www.litespeedtech.com/" target="_blank"> 
+    <img src="https://www.litespeedtech.com/images/logos/lsws-icon.svg" height="60"/> 
   </a> &nbsp;
 </p>
 
