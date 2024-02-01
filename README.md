@@ -1,4 +1,4 @@
-<h2 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages & Tools:</h3>
 <br>
 <p align="center">
   <br>
