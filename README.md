@@ -1,5 +1,4 @@
 <h2 align="center">Languages, Tools & Technologies:</h3>
-<br>
 <p align="center">
   <br>
   <a href="https://www.python.org" target="_blank">
