@@ -54,7 +54,7 @@
     <img src="https://codemirror.net/style/logo.svg" height="60"/> 
   </a> &nbsp;
   <a href="https://ckeditor.com/" target="_blank">
-    <img src="https://ckeditor.com/assets/images/legacy/favicons/180x180.png" height="60"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/ab/CKEditor_4_and_CKEditor_5_logos.png?20171129120117" height="60"/> 
   </a> &nbsp;
   <a href="https://datatables.net/" target="_blank">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd4SgFxZiu2QbFvb9xC2a1adaBW4Xteick3Gy7PW3G1A&s" height="60"/> 
