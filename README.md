@@ -1,4 +1,5 @@
 <h2 align="center">Languages, Tools & Technologies:</h2>
+
 <p align="center">
   <a href="https://www.python.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" height="60"/> 
