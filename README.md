@@ -148,5 +148,4 @@
 </p>
 <p align="center"><img src="https://github-readme-streak-stats-smoky-seven.vercel.app?user=hrishi2402&theme=algolia"></p>
 <p align="center"><img src="https://stats-hrishi.vercel.app/api/wakatime?username=hrishi2402&theme=algolia"></p>
-
 <p align="center"><img src="https://codeium.com/profile/lysergic/card.png"></p>
