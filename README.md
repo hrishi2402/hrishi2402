@@ -21,7 +21,6 @@
   <a href="https://jinja.palletsprojects.com/" target="_blank">
     <img src="https://repository-images.githubusercontent.com/994551/2ba89c40-184d-45ec-8ffe-f9e155aaf702" height="60"/> 
   </a> &nbsp;
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" height="60"/> 
   </a> &nbsp;
