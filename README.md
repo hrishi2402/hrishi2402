@@ -87,8 +87,6 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank"> 
     <img src="https://bashlogo.com/img/symbol/jpg/monochrome_dark.jpg"  height="60"/> 
   </a> &nbsp;
-  
-  
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="60"/> 
   </a> &nbsp;
